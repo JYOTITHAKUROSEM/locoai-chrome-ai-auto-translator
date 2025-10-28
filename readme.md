@@ -4,9 +4,6 @@
 It uses **Google Chrome’s native AI Translator API** to automatically translate plugin and theme strings directly in the browser.  
 No paid APIs, no external translation services — just fast, accurate, and secure translations powered by Chrome’s AI engine.[Translation API](https://developer.chrome.com/docs/ai/translator-api)
 
-
-![LocoAI – Chrome AI Auto Translator Demo](https://locoai-chrome-ai-translation.instawp.co/wp-content/uploads/2025/10/loco-chrome-ai.gif)
-
 ## 🎮 Live Demo Access
 
 Experience **LocoAI – Chrome AI Auto Translator** in action:  
@@ -15,7 +12,9 @@ Experience **LocoAI – Chrome AI Auto Translator** in action:
 **Login Details:**
 - **Username:** demo  
 - **Password:** demo123  
-- 
+
+![LocoAI – Chrome AI Auto Translator Demo](https://locoai-chrome-ai-translation.instawp.co/wp-content/uploads/2025/10/loco-chrome-ai.gif)
+
 ## Installation
 1. Upload the files and folders to the `/wp-content/plugins/locoai-chrome-ai-auto-translator` directory
 2. Go to "Plugins" in your WP Admin
