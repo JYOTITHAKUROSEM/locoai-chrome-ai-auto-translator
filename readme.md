@@ -5,7 +5,7 @@ It uses **Google Chrome’s native AI Translator API** to automatically translat
 No paid APIs, no external translation services — just fast, accurate, and secure translations powered by Chrome’s AI engine.[Prompt API](https://developer.chrome.com/docs/ai/translator-api)
 
 
-![LocoAI – Chrome AI Auto Translator]()
+![LocoAI – Chrome AI Auto Translator Demo]()
 
 ## Installation
 1. Upload the files and folders to the `/wp-content/plugins/locoai-chrome-ai-auto-translator` directory
