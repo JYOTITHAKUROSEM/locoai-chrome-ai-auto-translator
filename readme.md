@@ -7,6 +7,15 @@ No paid APIs, no external translation services — just fast, accurate, and secu
 
 ![LocoAI – Chrome AI Auto Translator Demo](https://locoai-chrome-ai-translation.instawp.co/wp-content/uploads/2025/10/loco-chrome-ai.gif)
 
+## 🎮 Live Demo Access
+
+Experience **LocoAI – Chrome AI Auto Translator** in action:  
+🔗 [Go to Demo Admin Panel](https://locoai-chrome-ai-translation.instawp.co/wp-admin/)
+
+**Login Details:**
+- **Username:** demo  
+- **Password:** demo123  
+- 
 ## Installation
 1. Upload the files and folders to the `/wp-content/plugins/locoai-chrome-ai-auto-translator` directory
 2. Go to "Plugins" in your WP Admin
