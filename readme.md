@@ -1,4 +1,3 @@
-![!LocoAI – Chrome AI Auto Translator]
 # LocoAI – Chrome AI Auto Translator
 
 **LocoAI – Chrome AI Auto Translator** is a powerful web application built to simplify WordPress localization.  
