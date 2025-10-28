@@ -11,7 +11,7 @@ Experience **LocoAI – Chrome AI Auto Translator** in action:
 
 **Login Details:**
 - **Username:** demo  
-- **Password:** demo123  
+- **Password:** demo@123  
 
 ![LocoAI – Chrome AI Auto Translator Demo](https://locoai-chrome-ai-translation.instawp.co/wp-content/uploads/2025/10/loco-chrome-ai.gif)
 
